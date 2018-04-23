@@ -19,7 +19,7 @@ public class list{
     public static void main(String[]args){
         ArrayList eliminateDuplicates = new ArrayList<>();
         eliminateDuplicates.add("rohith");
-        eliminateDuplicates.add("mahesh");
+        eliminateDuplicates.add("hitman");
         eliminateDuplicates.add("vaish");
         eliminateDuplicates.add("rohith");
         System.out.println(list.duplicates(eliminateDuplicates));
