@@ -20,8 +20,8 @@ public class list{
         ArrayList eliminateDuplicates = new ArrayList<>();
         eliminateDuplicates.add("rohith");
         eliminateDuplicates.add("mahesh");
-        eliminateDuplicates.add("rohith");
-        eliminateDuplicates.add("sitara");
+        eliminateDuplicates.add("vaish");
+        eliminateDuplicates.add("web");
         System.out.println(list.duplicates(eliminateDuplicates));
     }
 }
