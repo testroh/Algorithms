@@ -21,7 +21,7 @@ public class list{
         eliminateDuplicates.add("rohith");
         eliminateDuplicates.add("mahesh");
         eliminateDuplicates.add("vaish");
-        eliminateDuplicates.add("web");
+        eliminateDuplicates.add("rohith");
         System.out.println(list.duplicates(eliminateDuplicates));
     }
 }
